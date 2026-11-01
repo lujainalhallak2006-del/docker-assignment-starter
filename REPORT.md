@@ -37,7 +37,7 @@ ____________________
 
 What happened:
 
-____________________
+When I edited the message.txt file, nothing changed because Docker still relies on the image it took during the build, so to apply the changes we need to build a new image.
 
 What I learned:
 
